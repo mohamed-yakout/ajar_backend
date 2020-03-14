@@ -1,0 +1,28 @@
+{
+  "name": "ajar_backend",
+  "version": "1.0.0",
+  "description": "API for Ajar Trasfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-yakout/ajar_backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "ajar",
+    "api"
+  ],
+  "author": "Mohamed Yakout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-yakout/ajar_backend/issues"
+  },
+  "homepage": "https://github.com/Mohamed-yakout/ajar_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
